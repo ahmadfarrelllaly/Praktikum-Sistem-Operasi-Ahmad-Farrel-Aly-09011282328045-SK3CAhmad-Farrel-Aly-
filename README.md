@@ -1,1 +1,2 @@
-# Praktikum-Sistem-Operasi-Ahmad-Farrel-Aly-09011282328045-SK3CAhmad-Farrel-Aly-
+# Daftar 50 Command Yang digunakan Linux
+1. whoami, berfungsi menampilkan ![1](./Command/1.png)
